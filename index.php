@@ -8,5 +8,8 @@
 <body>
     <h1>Apa kabar</h>
     <p>manajemen proyek</p>
+    <ul>
+        <l1>senin</li>
+        <li>selasa</li>
 </body>
 </html>
