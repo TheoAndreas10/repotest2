@@ -11,5 +11,8 @@
     <ul>
         <l1>senin</li>
         <li>selasa</li>
+        <li>Rabu</li>
+        <li>Kamis</li></li>
+            
 </body>
 </html>
